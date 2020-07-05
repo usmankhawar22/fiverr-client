@@ -1,1 +1,5 @@
 # fiverr-client
+
+Machine learning using rapid miner 
+
+ K-mean using RapidMiner Use the RapidMiner to cluster the dataset Demo02 – demographic information bon US states Build a RapidMiner process the includes the following elements:  The dataset (Demo02)  select attributes - From the data set select the attributes o < 65 pop. est. o Total pop. est. 1-July-2001  normalize - Normalize the values using range transform  K-mean - Set K to 4 Set the random seed (in the process parameters) to 12345 Run the process and analyze the results. (answers this questions in a word document, and provide screenshots as required)  How many states are in each cluster?  What are the centroids of the 4 clusters generated?  Translate the centroid values into real values?  Which country belong to each cluster?  Add a scatter plot of the clusters generated (using the visualizations option)  What characterize each of the clusters (in relation to the two parameters used for clustering)? (i.e. explain the characteristics of the countries that belong to each cluster). 
